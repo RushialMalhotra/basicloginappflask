@@ -29,7 +29,7 @@ def signup():
   if True:
     return {
       "Success" : True,
-      "message" : "User Created successfully",
+      "message" : "User Create successfully",
       "UserId" : "thisIs  user id" 
       }
   else:
