@@ -33,7 +33,7 @@ def signup():
       "UserId" : "thisIs  user id" 
       }
   else:
-    return 'Error creating User'
+    return 'Error creating Users'
   return signup_data
 
 if __name__ == '__main__':
